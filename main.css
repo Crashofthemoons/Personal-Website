@@ -1,0 +1,10 @@
+#tech {
+    width: 50%;
+    height: auto;
+}
+
+#headshot {
+    clip-path: circle();
+    width: 30%;
+    height: auto;
+}
