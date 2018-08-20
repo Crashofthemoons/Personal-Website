@@ -13,15 +13,10 @@
     margin-right: auto;
 }
 
-hr {
-    height: 10px;
-    background-color: #A4C3B2;
-    color: #A4C3B2;
-}
-
 .code {
     height: 200px;
     background: whitesmoke;
+    margin: auto;
 }
 
 .code > div {
@@ -76,6 +71,25 @@ hr {
 .jackie > h2 {
     padding-top: 50px;
 }
+
+.resume {
+    display: block;
+    padding-top: 5px;
+    text-decoration: none;
+    color: black;
+    border: 2px black solid;
+    border-radius: 2em;
+    width: 250px;
+    margin: auto;
+    background-color: whitesmoke
+}
+
+.resume:hover {
+    background-color: black;
+    border: 2px whitesmoke solid;
+    color: whitesmoke;
+}
+
 
 .spec {
     padding-top: 45px;
