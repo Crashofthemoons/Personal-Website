@@ -7,4 +7,139 @@
     clip-path: circle();
     width: 30%;
     height: auto;
+    margin-top: -10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+hr {
+    height: 10px;
+    background-color: #A4C3B2;
+    color: #A4C3B2;
+}
+
+.code {
+    height: 200px;
+    background: whitesmoke;
+}
+
+.code > div {
+    display: inline-block;
+}
+
+.code > div > p {
+    margin: auto;
+    padding-left: 2.5em;
+    padding-right: 2em;
+
+}
+
+.icon {
+    height: 30px;
+    width: auto;
+}
+
+.icon2 {
+    height: 75px;
+    width: auto;
+    margin: auto;
+    padding: 3em 2em 0 2.5em;
+}
+
+.about {
+    background-color: #A4C3B2;
+    height: 350px;
+    margin-top: -12%;
+}
+
+.about > p {
+    padding-top: 12%;
+    padding-left: 250px;
+    padding-right: 250px;
+    text-align: justify;
+    font-size: 1.1em;
+}
+
+.about > div {
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: 900;
+}
+
+.jackie {
+    height: 500px;
+}
+
+.jackie > h2 {
+    padding-top: 50px;
+}
+
+.spec {
+    padding-top: 45px;
+    height: 500px;
+}
+
+#tech {
+    float: left;
+    padding: 15px;
+    border-radius: 2em;
+}
+
+.trek {
+    float: right;
+    width: 45%;
+    padding-right: 15px;
+    text-align: justify;
+}
+
+.header {
+    height: 500px;
+    background: url(images/flowers.jpg) no-repeat center;
+    background-size: cover;
+    margin-top: -80px;
+    /* font-family: 'Amatic SC', cursive;
+    font-family: 'Economica', sans-serif; */
+    font-family: 'Unica One', cursive;
+    font-weight: 900;
+    color: whitesmoke;
+    text-shadow: 0 0 0 whitesmoke , 0 0 0 whitesmoke , 0 0 0 whitesmoke , 0 0 30px grey, 0 0 60px grey, 0 0 70px grey, 0 0 100px grey;
+}
+
+h1 {
+    font-size: 6em;
+    text-align: center;
+    padding-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 3em;
+    font-weight: 800;
+}
+
+p {
+    text-align: justify;
+    font-size: 1.1em;
+}
+
+body {
+    margin: 0;
+    display: block;
+    background-image: url(images/clouds.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    font-family: 'Gothic A1', sans-serif;
+}
+
+footer {
+    background-color: #A4C3B2;
+    height: 50px;
+    font-family: 'Unica One', cursive;
+    color: whitesmoke;
+    font-size: 1.9em;
+}
+
