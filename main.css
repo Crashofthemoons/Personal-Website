@@ -26,6 +26,13 @@ h3 {
 }
 
 
+a:link img {
+    opacity: 1;
+}
+
+a:hover img {
+    opacity: .5;
+}
 
 
 
