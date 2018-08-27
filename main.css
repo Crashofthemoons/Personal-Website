@@ -8,6 +8,7 @@
     border-radius: 2em;
     width: 250px;
     margin: auto;
+    margin-bottom: 20px;
     background-color: whitesmoke
 }
 
@@ -91,6 +92,7 @@ body {
         background-color: #A4C3B2;
         height: auto;
         margin-top: -28%;
+        margin-bottom: 20px;
     }
 
     .about > p {
@@ -113,6 +115,7 @@ body {
         height: auto;
         background: whitesmoke;
         margin: auto;
+        padding-bottom: 20px;
     }
 
     .code > div {
@@ -127,7 +130,7 @@ body {
     }
 
     .icon {
-        height: 30px;
+        height: 45px;
         width: auto;
     }
 
@@ -232,6 +235,7 @@ body {
         background-color: #A4C3B2;
         height: auto;
         margin-top: -28%;
+        padding-bottom: 20px;
     }
 
     .about > p {
@@ -254,6 +258,7 @@ body {
         height: auto;
         background: whitesmoke;
         margin: auto;
+        padding-bottom: 20px;
     }
 
     .code > div {
@@ -268,7 +273,7 @@ body {
     }
 
     .icon {
-        height: 30px;
+        height: 45px;
         width: auto;
     }
 
@@ -302,9 +307,13 @@ body {
         padding-right: 15px;
     }
 
+    .spec > ax {
+        padding-left: 40px;
+    }
+
     .trek {
         width: 90%;
-        padding-right: 15px;
+        padding-right: 40px;
         text-align: justify;
         height: auto;
     }
@@ -363,8 +372,9 @@ body {
 
     .about {
         background-color: #A4C3B2;
-        height: 350px;
+        height: auto;
         margin-top: -12%;
+        padding-bottom: 20px;
     }
 
     .about > p {
@@ -387,6 +397,7 @@ body {
         height: auto;
         background: whitesmoke;
         margin: auto;
+        padding-bottom: 20px;
     }
 
     .code > div {
@@ -401,8 +412,9 @@ body {
     }
 
     .icon {
-        height: 30px;
+        height: 45px;
         width: auto;
+        padding: 5px;
     }
 
     .icon2 {
